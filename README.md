@@ -1,6 +1,8 @@
-# CanvasX
+# CanvasViewX
 ##Android hand paint library
 ##android 涂鸦手绘工具库
+各种图形，箭头，曲线，直线，圆形，橡皮擦等。
+配上我的FloatWindowX库，可实现后台悬浮画图
 
 #依赖
 #Dependency
@@ -17,7 +19,7 @@
  2.
 ```
         dependencies {
-	        implementation 'com.github.howlaa:CanvasX:Tag'
+	        implementation 'com.github.howlaa:CanvasViewX:1.0'
 	}
 ```
  
